@@ -1,4 +1,7 @@
 # ejercicio_3
+
+//Para esta practica hay que instalar dependencias de desarrollo "node_modules" y eliminar el archivo "node_modules.txt" 
+
 // practica fs + express
 
  /*
